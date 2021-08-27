@@ -1,16 +1,9 @@
 
-Crypto Collectibles Series -
-[Cats](https://github.com/cryptocopycats/programming-mooncats) ·
-[Kitties](https://github.com/cryptocopycats/programming-cryptokitties) ·
-[Punks](https://github.com/cryptopunksnotdead/programming-cryptopunks)
-
-
+Crypto Collectibles Series 
 
 # Programming CryptoPunks & Copypastas Step-by-Step Book / Guide
 
 _Inside Unique Pixel Art on the Blockchain..._
-
-by [Gerald Bauer](https://github.com/geraldb), et al
 
 - [Do-It-Yourself (DIY) - Yes, You Can! - Mint Your Own Punks in Original 24x24 Pixel Format or With 2X / 4X / 8X Zoom](01_mint.md)
 - [Statistics, Statistics, Statistics - Calculate Rarity & Popularity By Type, By Accessories, & More - Inside the 10 000 Punk Population](02_attributes.md)
@@ -22,30 +15,3 @@ by [Gerald Bauer](https://github.com/geraldb), et al
 - [Revolutionize the Digital Art Market - Fractionalize The World's First Billion Dollar Pixel Image - Build Your Own All-In-One Punk Composites - Curate Your Own Exclusive Collections Ready to Sell Off to New Owners](08_composite.md)
 - [Inside the $7.5 Million "Mr Mona Lisa" Punk - Deconstructing the 24x24 Pixel Art and Reconstructing with a Smile in a "Mr & Mrs Mona Lisa" Left and Right Edition](09_monalisa.md)
 - [7 Quick & Easy Hairstyles with Simple Instructions to Do in a Few Minutes - Trendy Ideas for Punkettes to Try in 2021 - Is Orange the New Black?](10_hair.md)
-
-
-To be continued...
-
-
-- [Appendix - Pixel Art Special Effects Gallery / Cheatsheet - Free Ideas & Recipes for Starting Your Own CryptoPunks Collection Today](A1_special_effects.md)
-- [Appendix - Troubleshooting](A2_troubleshooting.md)
-
-
-
-## Questions? Comments?
-
-Post them on the [CryptoPunksDev reddit](https://old.reddit.com/r/CryptoPunksDev). Thanks.
-
-
-## License
-
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
-The Programming CryptoPunks & Copypastas Step-by-Step book / guide
-is dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
-
-
----
-
-For more blockchain books, see the [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
